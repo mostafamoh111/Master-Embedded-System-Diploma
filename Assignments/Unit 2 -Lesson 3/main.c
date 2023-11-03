@@ -6,6 +6,9 @@
 int main () {
 	
 	printf("2nd Assignment");
+	printf("2nd Assignment");
+	printf("2nd Assignment");
+	
 	
 	
 	
